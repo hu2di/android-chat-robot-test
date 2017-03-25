@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RoboChat</string>
+    <string name="login">Login</string>
+    <string name="ask_name">What is your name?</string>
+    <string name="message">Message</string>
+    <string name="join">Join</string>
+
+    <string-array name="spinner_array">
+        <item>Chat bot</item>
+        <item>Chat room</item>
+    </string-array>
+
+</resources>
